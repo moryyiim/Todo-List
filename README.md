@@ -1,3 +1,11 @@
+# TODO List
+
+This app was built using HTML, CSS, TailwindCSS, and React
+
+# Demo
+
+https://todo-list-app-tracker.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
