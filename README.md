@@ -1,6 +1,6 @@
 # TODO List
 
-This app was built using HTML, CSS, TailwindCSS, and React
+This CRUD app was built using HTML, CSS, TailwindCSS, and React
 
 # Demo
 
